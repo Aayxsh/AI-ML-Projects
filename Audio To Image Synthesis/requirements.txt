@@ -1,0 +1,13 @@
+torch
+tensorflow
+tensorflow-hub
+pandas
+numpy
+librosa
+Pillow
+openai-clip
+clip
+whisper
+diffusers
+transformers
+accelerate
